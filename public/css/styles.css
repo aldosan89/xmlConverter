@@ -1,0 +1,152 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: 300;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  font-weight: 300;
+  background: #40739e;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+div h5 {
+  color: #fff;
+  font-weight: bold;
+}
+
+.navDes {
+  opacity: .4;
+  padding: 1% 3%;
+}
+
+.exit {
+  padding-top: 10%;
+  text-align: center;
+}
+
+.exit a {
+  width: 100px;
+}
+.buttonContainer{
+  margin: 4% auto;
+  text-align: center;
+}
+
+.container {
+  margin: 4% auto;
+  padding: 5px 0;
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.header{
+  text-align: center;
+  font-size: 45px;
+  font-weight: 300;
+}
+
+.headerXML {
+  text-align: center;
+  padding: 2% 0 2%;
+}
+
+form {
+  padding: 20px 0;
+  position: relative;
+}
+form input {
+  border: 1px solid rgba(252, 252, 252, 0.4);
+  background-color: rgba(252, 252, 252, 0.2);
+  width: 250px;
+  border-radius: 3px;
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+}
+
+form button {
+  appearance: none;
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #40739e;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+}
+
+.buttonA {
+  outline: 0;
+  background-color: white;
+  border: 0;
+  padding: 10px 15px;
+  color: #40739e;
+  border-radius: 3px;
+  width: 250px;
+  font-size: 18px;
+}
+
+form input {
+  outline: none;
+}
+
+.buttonContainer a {
+  display: block;
+  margin: 10px auto;
+  text-decoration: none;
+  font-weight: 300;
+}
+
+div img {
+  max-width: 450px;
+}
+
+div a {
+  width: 190px;
+}
+
+.butttonXML {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.cardBodyE {
+  background-color: #40739e;
+  border: 1px solid rgba(252, 252, 252, 0.4);
+  /*background-color: rgba(252, 252, 252, 0.2);*/
+  border: none;
+}
+
+div a:hover{
+  color: #dcdde1;
+}
+
+::placeholder{
+  color: #353b48;
+}
+
+form button:hover{
+  cursor: pointer;
+  background-color: #2980b9;
+  color: #fff;
+}
+
+.buttonA:hover{
+  background-color: #2980b9;
+}
