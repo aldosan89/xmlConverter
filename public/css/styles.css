@@ -39,7 +39,7 @@ div h5 {
 }
 
 .container {
-  margin: 4% auto;
+  margin: 2% auto;
   padding: 5px 0;
   text-align: center;
 }
@@ -47,6 +47,7 @@ div h5 {
 .container h1 {
   font-size: 40px;
   font-weight: 200;
+  margin-bottom: 3%;
 }
 
 .header{
