@@ -125,11 +125,8 @@ app.post("/converter", function(req, res){
         /*************************** FALTAN ***************************/
         let o2 = "O2"; let o2Adress = worksheet[o2]; let o2Value = (o2Adress ? o2Adress.v : undefined);
         let p2 = "P2"; let p2Adress = worksheet[p2]; let p2Value = (p2Adress ? p2Adress.v : undefined);
-        const p2Date = new Date((p2Value - (25567 + 2)) * 86400 * 1000);
-        let p2Year = p2Date.getFullYear();
-        let p2Month = (p2Date.getMonth())+1;
-        if (p2Month < 10) { p2Month = "0" + p2Month; }
-        let p2Day = (p2Date.getDate())+1;
+        let p2Month = p2Value.getMonth(); p2Month++; if (p2Month < 10) { p2Month = "0" + p2Month; }
+        let p2Day = p2Value.getDate(); if (p2Day < 10) { p2Day = "0" + p2Day; }
         let q2 = "Q2"; let q2Adress = worksheet[q2]; let q2Value = (q2Adress ? q2Adress.v : undefined);
         let r2 = "R2"; let r2Adress = worksheet[r2]; let r2Value = (r2Adress ? r2Adress.v : undefined);
         let s2 = "S2"; let s2Adress = worksheet[s2]; let s2Value = (s2Adress ? s2Adress.v : undefined);
@@ -137,10 +134,8 @@ app.post("/converter", function(req, res){
         let x2 = "X2"; let x2Adress = worksheet[x2]; let x2Value = (x2Adress ? x2Adress.v : undefined);
         let y2 = "Y2"; let y2Adress = worksheet[y2]; let y2Value = (y2Adress ? y2Adress.v : undefined);
         let z2 = "Z2"; let z2Adress = worksheet[z2]; let z2Value = (z2Adress ? z2Adress.v : undefined);
-        const z2Date = new Date((z2Value - (25567 + 2)) * 86400 * 1000);
-        let z2Year = z2Date.getFullYear(); let z2Month = (z2Date.getMonth())+1;
-        if (z2Month < 10) { z2Month = "0" + z2Month; }
-        let z2Day = (z2Date.getDate())+1;
+        let z2Month = z2Value.getMonth(); z2Month++; if (z2Month < 10) { z2Month = "0" + z2Month; }
+        let z2Day = z2Value.getDate(); if (z2Day < 10) { z2Day = "0" + z2Day; }
         let aa2 = "AA2"; let aa2Adress = worksheet[aa2]; let aa2Value = (aa2Adress ? aa2Adress.v : undefined);
         let ab2 = "AB2"; let ab2Adress = worksheet[ab2]; let ab2Value = (ab2Adress ? ab2Adress.v : undefined);
         let ac2 = "AC2"; let ac2Adress = worksheet[ac2]; let ac2Value = (ac2Adress ? ac2Adress.v : undefined);
@@ -201,7 +196,7 @@ app.post("/converter", function(req, res){
                   if (g2Value === undefined) {
                     xw.startElement("persona_moral");
                       xw.startElement("denominacion_razon").text(o2Value.toUpperCase()).endElement();
-                      xw.startElement("fecha_constitución").text(p2Year+""+p2Month+""+p2Day).endElement();
+                      xw.startElement("fecha_constitución").text(p2Value.getFullYear() + "" + p2Month + "" + p2Day).endElement();
                       xw.startElement("rfc").text(q2Value).endElement();
                       xw.startElement("pais_nacionalidad").text(r2Value).endElement();
                       xw.startElement("giro_mercanril").text(s2Value).endElement();
@@ -209,7 +204,7 @@ app.post("/converter", function(req, res){
                         xw.startElement("nombre").text(w2Value.replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u").toUpperCase().trim()).endElement();
                         xw.startElement("apellido_paterno").text(x2Value.replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u").toUpperCase().trim()).endElement();
                         xw.startElement("apellido_materno").text(y2Value.replace("á", "a").replace("é", "e").replace("í", "i").replace("ó", "o").replace("ú", "u").toUpperCase().trim()).endElement();
-                        xw.startElement("fecha_nacimiento").text(z2Year+""+z2Month+""+z2Day).endElement();
+                        xw.startElement("fecha_nacimiento").text(z2Value.getFullYear() + "" + z2Month + "" + z2Day).endElement();
                         xw.startElement("rfc").text(aa2Value).endElement();
                         xw.startElement("curp").text(ab2Value).endElement();
                       xw.endElement();
