@@ -12,11 +12,16 @@ body {
   background: #40739e;
   width: 100%;
   height: 100%;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 div h5 {
   color: #fff;
+  font-weight: bold;
+}
+
+textarea {
+  border: none;
   font-weight: bold;
 }
 
@@ -33,6 +38,12 @@ div h5 {
 .exit a {
   width: 100px;
 }
+
+.download {
+  padding-top: 2%;
+  text-align: center;
+}
+
 .buttonContainer{
   margin: 4% auto;
   text-align: center;
@@ -125,6 +136,7 @@ div a {
 .butttonXML {
   margin-top: 3%;
   margin-bottom: 3%;
+  width: 150px;
 }
 
 .cardBodyE {
@@ -148,6 +160,10 @@ form button:hover{
   color: #fff;
 }
 
-.buttonA:hover{
+.buttonA:hover {
   background-color: #2980b9;
+}
+
+.custom-file-input:hover {
+  cursor: pointer;
 }
