@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <informe>
+        <aviso>
+            <rfc>OSF940329E80</rfc>
+            <periodo>202005</periodo>
+            <referencia>12</referencia>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <prioridad>1</prioridad>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>VIENDO POR SU SALUD, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitución>20050624</fecha_constitución>
+                        <rfc>VSS050624DJ8</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercanril>5610200</giro_mercanril>
+                        <representante_apoderado>
+                            <nombre>JORGE LUIS</nombre>
+                            <apellido_paterno>JUAREZ</apellido_paterno>
+                            <apellido_materno>HERNANDEZ</apellido_materno>
+                            <fecha_nacimiento>19740523</fecha_nacimiento>
+                            <rfc>TOHJ740523</rfc>
+                            <curp>TOHJ740523HDFRRR03</curp>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <codigo_postal>05348</codigo_postal>
+                        <colonia>SANTA FE</colonia>
+                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
+                        <numero_interior>1236</numero_interior>
+                        <numero_exterior>P 9 (A)</numero_exterior>
+                    </nacional>
+                </tipo_domicilio>
+                <telefono>
+                    <clave_pais>MX</clave_pais>
+                    <numero_telefono>5554887400</numero_telefono>
+                    <correo_electronico>JTORRES@COOPERVISION.COM</correo_electronico>
+                </telefono>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200501</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <características>
+                        <tipo_inmueble>5</tipo_inmueble>
+                        <valor_referencia>6595736.51</valor_referencia>
+                        <codigo_postal>05348</codigo_postal>
+                        <colonia>DESARROLLO SANTA FE</colonia>
+                        <calle>AV. PROLONGACIÓN PASEO DE LA REFORMA</calle>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>PISO 9 (A)</numero_interior>
+                        <folio_real>1102263</folio_real>
+                        <fecha_inicio>20200501</fecha_inicio>
+                        <fecha_termino>20200531</fecha_termino>
+                    </características>
+                    <datos_liquidacion>
+                        <fecha_pago>20200507</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <mont_operacion>320974.32</mont_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+    </informe>
+</archivo>
