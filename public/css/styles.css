@@ -56,7 +56,7 @@ textarea {
 }
 
 .container h1 {
-  font-size: 40px;
+  font-size: 4.0625rem;
   font-weight: 200;
   margin-bottom: 3%;
 }
@@ -126,7 +126,7 @@ form input {
 }
 
 div img {
-  max-width: 450px;
+  max-width: 350px;
 }
 
 div a {

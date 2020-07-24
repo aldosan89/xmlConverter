@@ -1,69 +1,202 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archivo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<archivo xsi:schemaLocation="http://www.uif.shcp.gob.mx/recepcion/ari ari.xsd" xmlns="http://www.uif.shcp.gob.mx/recepcion/ari" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <informe>
+        <mes_reportado>202005</mes_reportado>
+        <sujeto_obligado>
+            <clave_sujeto_obligado>OSF940329E80</clave_sujeto_obligado>
+            <clave_actividad>ARI</clave_actividad>
+        </sujeto_obligado>
         <aviso>
-            <rfc>OSF940329E80</rfc>
-            <periodo>202005</periodo>
-            <referencia>12</referencia>
+            <referencia_aviso>13</referencia_aviso>
+            <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
             </alerta>
-            <prioridad>1</prioridad>
             <persona_aviso>
                 <tipo_persona>
                     <persona_moral>
-                        <denominacion_razon>VIENDO POR SU SALUD, S.A. DE C.V.</denominacion_razon>
-                        <fecha_constitución>20050624</fecha_constitución>
-                        <rfc>VSS050624DJ8</rfc>
-                        <pais_nacionalidad>MXN</pais_nacionalidad>
-                        <giro_mercanril>5610200</giro_mercanril>
+                        <denominacion_razon>CYPLUS IDESA, S.A.P.I. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>20130621</fecha_constitucion>
+                        <rfc>CID1306214R7</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <giro_mercanril>3250005</giro_mercanril>
                         <representante_apoderado>
-                            <nombre>JORGE LUIS</nombre>
-                            <apellido_paterno>JUAREZ</apellido_paterno>
-                            <apellido_materno>HERNANDEZ</apellido_materno>
-                            <fecha_nacimiento>19740523</fecha_nacimiento>
-                            <rfc>TOHJ740523</rfc>
-                            <curp>TOHJ740523HDFRRR03</curp>
+                            <nombre>LUIS</nombre>
+                            <apellido_paterno>DEL BARRIO</apellido_paterno>
+                            <apellido_materno>MOLINA</apellido_materno>
+                            <fecha_nacimiento>19621029</fecha_nacimiento>
+                            <rfc>BAML621029</rfc>
+                            <curp>BAML621029HDFRLS04</curp>
                         </representante_apoderado>
                     </persona_moral>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <codigo_postal>05348</codigo_postal>
                         <colonia>SANTA FE</colonia>
                         <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_interior>1236</numero_interior>
-                        <numero_exterior>P 9 (A)</numero_exterior>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>P 2 (B)</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
                 <telefono>
                     <clave_pais>MX</clave_pais>
-                    <numero_telefono>5554887400</numero_telefono>
-                    <correo_electronico>JTORRES@COOPERVISION.COM</correo_electronico>
+                    <numero_telefono>12119000</numero_telefono>
+                    <correo_electronico>KFONSECA@CYPLUSIDESA.COM</correo_electronico>
                 </telefono>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
                     <fecha_operacion>20200501</fecha_operacion>
                     <tipo_operacion>1501</tipo_operacion>
-                    <características>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.51</valor_referencia>
-                        <codigo_postal>05348</codigo_postal>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACIÓN PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 9 (A)</numero_interior>
-                        <folio_real>1102263</folio_real>
+                    <caracteristicas>
                         <fecha_inicio>20200501</fecha_inicio>
                         <fecha_termino>20200531</fecha_termino>
-                    </características>
+                        <tipo_inmueble>5</tipo_inmueble>
+                        <valor_referencia>6595736.00</valor_referencia>
+                        <colonia>DESARROLLO SANTA FE</colonia>
+                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>PISO 2 (B)</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
+                        <folio_real>1102263</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200506</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>2</moneda>
+                        <monto_operacion>11597.88</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>13</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>CYPLUS IDESA, S.A.P.I. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>20130621</fecha_constitucion>
+                        <rfc>CID1306214R7</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <giro_mercanril>3250005</giro_mercanril>
+                        <representante_apoderado>
+                            <nombre>LUIS</nombre>
+                            <apellido_paterno>DEL BARRIO</apellido_paterno>
+                            <apellido_materno>MOLINA</apellido_materno>
+                            <fecha_nacimiento>19621029</fecha_nacimiento>
+                            <rfc>BAML621029</rfc>
+                            <curp>BAML621029HDFRLS04</curp>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>SANTA FE</colonia>
+                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>P 2 (B)</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+                <telefono>
+                    <clave_pais>MX</clave_pais>
+                    <numero_telefono>12119000</numero_telefono>
+                    <correo_electronico>KFONSECA@CYPLUSIDESA.COM</correo_electronico>
+                </telefono>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200501</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200501</fecha_inicio>
+                        <fecha_termino>20200531</fecha_termino>
+                        <tipo_inmueble>5</tipo_inmueble>
+                        <valor_referencia>6595736.00</valor_referencia>
+                        <colonia>DESARROLLO SANTA FE</colonia>
+                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>PISO 2 (B)</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
+                        <folio_real>1102263</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200506</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>2</moneda>
+                        <monto_operacion>11597.88</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>14</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>GARCIA, NOYOLA, RAMOS Y ASOCIADOS, S.C.</denominacion_razon>
+                        <fecha_constitucion>19980922</fecha_constitucion>
+                        <rfc>GNR9809222V3</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <giro_mercanril>5750016</giro_mercanril>
+                        <representante_apoderado>
+                            <nombre>ELIZABETH MAGDALENA</nombre>
+                            <apellido_paterno>GARCIA</apellido_paterno>
+                            <apellido_materno>DINGLER</apellido_materno>
+                            <fecha_nacimiento>19650412</fecha_nacimiento>
+                            <rfc>GADE650412</rfc>
+                            <curp>GADE650412MDFRNL01</curp>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>SANTA FE</colonia>
+                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>P 5 (D)</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+                <telefono>
+                    <clave_pais>MX</clave_pais>
+                    <numero_telefono>12530730</numero_telefono>
+                    <correo_electronico>MAGDALENA.GARCIA@GNR.COM.MX</correo_electronico>
+                </telefono>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200501</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200501</fecha_inicio>
+                        <fecha_termino>20200531</fecha_termino>
+                        <tipo_inmueble>5</tipo_inmueble>
+                        <valor_referencia>6595736.00</valor_referencia>
+                        <colonia>DESARROLLO SANTA FE</colonia>
+                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
+                        <numero_exterior>1236</numero_exterior>
+                        <numero_interior>PISO 5 (D)</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
+                        <folio_real>1102263</folio_real>
+                    </caracteristicas>
                     <datos_liquidacion>
                         <fecha_pago>20200507</fecha_pago>
                         <forma_pago>1</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <mont_operacion>320974.32</mont_operacion>
+                        <monto_operacion>84545.74</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
