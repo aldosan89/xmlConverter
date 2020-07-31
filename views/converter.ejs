@@ -22,14 +22,14 @@
   </div>
 
   <div class="col-lg-5 col-md-12 col-sm-12">
-    <form class="" action="" method="post">
+    <form class="" action="/converterI" method="post" enctype="multipart/form-data">
       <div class="card">
         <div class="card-body cardBodyE">
           <h5 class="card-title">Venta de Inmuebles</h5>
           <div class="custom-file">
-            <input type="file" class="custom-file-input" id="inmueblesF">
+            <input type="file" class="custom-file-input" id="inmueblesF" name="inmuebleArchivo">
             <label class="custom-file-label" for="customFileLang" data-browse="Elegir">Seleccionar archivo...</label>
-            <button class="btn btn-outline-light butttonXML" type="button" name="button">Generar XML</button>
+            <button class="btn btn-outline-light butttonXML" type="submit" name="button">Generar XML</button>
           </div>
         </div>
       </div>
