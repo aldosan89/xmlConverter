@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archivo xsi:schemaLocation="http://www.uif.shcp.gob.mx/recepcion/inm inm.xsd" xmlns="http://www.uif.shcp.gob.mx/recepcion/inm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <informe>
+        <mes_reportado>202005</mes_reportado>
+        <sujeto_obligado>
+            <clave_sujeto_obligado>CPA791228437</clave_sujeto_obligado>
+            <clave_actividad>INM</clave_actividad>
+        </sujeto_obligado>
+        <aviso>
+            <referencia_aviso>1</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+                <descripcion_alerta>SIN ALERTA</descripcion_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>XXXX09897XX</denominacion_razon>
+                        <fecha_constitucion>20150101</fecha_constitucion>
+                        <rfc>XXXX7634532</rfc>
+                        <pais_nacionalidad>XXXX431267XXXXXX43</pais_nacionalidad>
+                        <giro_mercantil>1000</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>PEDRO</nombre>
+                            <apellido_paterno>PEREZ</apellido_paterno>
+                            <apellido_materno>PEREZ</apellido_materno>
+                            <fecha_nacimiento>19750402</fecha_nacimiento>
+                            <rfc>XXXX543278XX4</rfc>
+                            <curp>XAED783245XXXXXX51</curp>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <extranjero>
+                        <pais>US</pais>
+                        <estado_provincia>KANSAS</estado_provincia>
+                        <ciudad_poblacion>RIVER DALE</ciudad_poblacion>
+                        <colonia>ARV 585</colonia>
+                        <calle>5 AV</calle>
+                        <numero_exterior>5896</numero_exterior>
+                        <numero_interior>21598</numero_interior>
+                        <codigo_postal>59803</codigo_postal>
+                    </extranjero>
+                </tipo_domicilio>
+                <telefono>
+                    <clave_pais>MX</clave_pais>
+                    <numero_telefono>589598746</numero_telefono>
+                    <correo_electronico>RGB@LTP.COM</correo_electronico>
+                </telefono>
+            </persona_aviso>
+            <dueno_beneficiario>
+                <tipo_persona>
+                    <fideicomiso>
+                        <denominacion_razon>XXXX XXXXX X</denominacion_razon>
+                        <rfc>XXXX216485XX2</rfc>
+                        <identificador_fideicomiso>1000</identificador_fideicomiso>
+                    </fideicomiso>
+                </tipo_persona>
+            </dueno_beneficiario>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200508</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>3</figura_so>
+                    <datos_contraparte>
+                        <tipo_persona>
+                            <fideicomiso>
+                                <denominacion_razon>XXXXFIDX</denominacion_razon>
+                                <rfc>XXXX215487XX1</rfc>
+                                <identificador_fideicomiso>1000</identificador_fideicomiso>
+                            </fideicomiso>
+                        </tipo_persona>
+                    </datos_contraparte>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>1</tipo_inmueble>
+                        <valor_pactado>975000.00</valor_pactado>
+                        <colonia>LOMAS DE LA PLATA</colonia>
+                        <calle>MONTE ARENOSO</calle>
+                        <numero_exterior>111</numero_exterior>
+                        <numero_interior>176</numero_interior>
+                        <codigo_postal>42083</codigo_postal>
+                        <dimension_terreno>90.00</dimension_terreno>
+                        <dimension_construido>82.14</dimension_construido>
+                        <folio_real>43907</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>26379</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200508</fecha_instrumento_publico>
+                            <notario_instrumento_publico>15</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>977000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200425</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>500.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200508</fecha_pago>
+                        <forma_pago>4</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>818293.49</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+    </informe>
+</archivo>
