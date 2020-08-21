@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archivo xsi:schemaLocation="http://www.uif.shcp.gob.mx/recepcion/ari ari.xsd" xmlns="http://www.uif.shcp.gob.mx/recepcion/ari" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <informe>
-        <mes_reportado>202005</mes_reportado>
+        <mes_reportado>202007</mes_reportado>
         <sujeto_obligado>
-            <clave_sujeto_obligado>OSF940329E80</clave_sujeto_obligado>
+            <clave_sujeto_obligado>FPM1608034R1</clave_sujeto_obligado>
             <clave_actividad>ARI</clave_actividad>
         </sujeto_obligado>
         <aviso>
-            <referencia_aviso>12</referencia_aviso>
+            <referencia_aviso>296</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -15,64 +15,56 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_moral>
-                        <denominacion_razon>VIENDO POR SU SALUD, S.A. DE C.V.</denominacion_razon>
-                        <fecha_constitucion>20050624</fecha_constitucion>
-                        <rfc>VSS050624DJ8</rfc>
+                        <denominacion_razon>GST AUTOMOTIVE SAFETY COMPONENTS INTERNATIONAL, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19940704</fecha_constitucion>
+                        <rfc>IAS940704JI5</rfc>
                         <pais_nacionalidad>MXN</pais_nacionalidad>
-                        <giro_mercantil>5610200</giro_mercantil>
+                        <giro_mercantil>3260005</giro_mercantil>
                         <representante_apoderado>
-                            <nombre>JORGE LUIS</nombre>
-                            <apellido_paterno>TORRES</apellido_paterno>
-                            <apellido_materno>HERNANDEZ</apellido_materno>
-                            <fecha_nacimiento>19740523</fecha_nacimiento>
-                            <rfc>TOHJ740523</rfc>
-                            <curp>TOHJ740523HDFRRR03</curp>
+                            <nombre>JORGE RICARDO</nombre>
+                            <apellido_paterno>RIOS</apellido_paterno>
+                            <apellido_materno>ANGULO</apellido_materno>
+                            <fecha_nacimiento>19661120</fecha_nacimiento>
                         </representante_apoderado>
                     </persona_moral>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>P 9 (A)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
+                        <colonia>COSTA BELLA</colonia>
+                        <calle>AVENIDA PEDRO LOYOLA</calle>
+                        <numero_exterior>1063</numero_exterior>
+                        <codigo_postal>22898</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>5554887400</numero_telefono>
-                    <correo_electronico>JTORRES@COOPERVISION.COM</correo_electronico>
-                </telefono>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
+                    <fecha_operacion>20200703</fecha_operacion>
                     <tipo_operacion>1501</tipo_operacion>
                     <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 9 (A)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>18073204.58</valor_referencia>
+                        <colonia>COSTA BELLA</colonia>
+                        <calle>AVENIDA DR. PEDRO LOYOLA</calle>
+                        <numero_exterior>1063</numero_exterior>
+                        <numero_interior>NAVE 1, 2, 3</numero_interior>
+                        <codigo_postal>22898</codigo_postal>
+                        <folio_real>MQ074029</folio_real>
                     </caracteristicas>
                     <datos_liquidacion>
-                        <fecha_pago>20200507</fecha_pago>
+                        <fecha_pago>20200703</fecha_pago>
                         <forma_pago>1</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>320974.32</monto_operacion>
+                        <monto_operacion>1062235.34</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
         </aviso>
         <aviso>
-            <referencia_aviso>13</referencia_aviso>
+            <referencia_aviso>297</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -80,74 +72,623 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_moral>
-                        <denominacion_razon>CYPLUS IDESA, S.A.P.I. DE C.V.</denominacion_razon>
-                        <fecha_constitucion>20130621</fecha_constitucion>
-                        <rfc>CID1306214R7</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>3250005</giro_mercantil>
+                        <denominacion_razon>GST AUTOMOTIVE SAFETY COMPONENTS INTERNATIONAL, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19940704</fecha_constitucion>
+                        <rfc>IAS940704JI5</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3260005</giro_mercantil>
                         <representante_apoderado>
-                            <nombre>LUIS</nombre>
-                            <apellido_paterno>DEL BARRIO</apellido_paterno>
-                            <apellido_materno>MOLINA</apellido_materno>
-                            <fecha_nacimiento>19621029</fecha_nacimiento>
-                            <rfc>BAML621029</rfc>
-                            <curp>BAML621029HDFRLS04</curp>
+                            <nombre>JORGE RICARDO</nombre>
+                            <apellido_paterno>RIOS</apellido_paterno>
+                            <apellido_materno>ANGULO</apellido_materno>
+                            <fecha_nacimiento>19661120</fecha_nacimiento>
                         </representante_apoderado>
                     </persona_moral>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>P 2 (B)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
+                        <colonia>COSTA BELLA</colonia>
+                        <calle>AVENIDA PEDRO LOYOLA</calle>
+                        <numero_exterior>1063</numero_exterior>
+                        <codigo_postal>22898</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>12119000</numero_telefono>
-                    <correo_electronico>KFONSECA@CYPLUSIDESA.COM</correo_electronico>
-                </telefono>
             </persona_aviso>
-            <dueno_beneficiario>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>PATITO</denominacion_razon>
-                        <fecha_constitucion>19800819</fecha_constitucion>
-                        <rfc>XXX010101XXX</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                    </persona_moral>
-                </tipo_persona>
-            </dueno_beneficiario>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
+                    <fecha_operacion>20200703</fecha_operacion>
                     <tipo_operacion>1501</tipo_operacion>
                     <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 2 (B)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>18073204.58</valor_referencia>
+                        <colonia>COSTA BELLA</colonia>
+                        <calle>AVENIDA DR. PEDRO LOYOLA</calle>
+                        <numero_exterior>1063</numero_exterior>
+                        <numero_interior>NAVE 4</numero_interior>
+                        <codigo_postal>22898</codigo_postal>
+                        <folio_real>MQ074029</folio_real>
                     </caracteristicas>
                     <datos_liquidacion>
-                        <fecha_pago>20200506</fecha_pago>
+                        <fecha_pago>20200703</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>346697.44</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>298</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>ACRYLIC IDEA FACTORY, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19950214</fecha_constitucion>
+                        <rfc>AIF9502147R8</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3260005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>EDUARDO</nombre>
+                            <apellido_paterno>RAMOS</apellido_paterno>
+                            <apellido_materno>MORALES</apellido_materno>
+                            <fecha_nacimiento>19730814</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE ALEJANDRO PEREZ ROCHA</calle>
+                        <numero_exterior>9</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200706</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>22564697.53</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE PEREZ ROCHA</calle>
+                        <numero_exterior>9</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454002</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200706</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>2</moneda>
+                        <monto_operacion>14995.60</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>299</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>AMPHENOL OPTIMIZE MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19840709</fecha_constitucion>
+                        <rfc>AOM840709HE7</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3350005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>THAYNE WORKS</nombre>
+                            <apellido_paterno>HARDY</apellido_paterno>
+                            <apellido_materno>XXX</apellido_materno>
+                            <fecha_nacimiento>19650822</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRETERA INTERNACIONAL KM 6.5</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200702</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200930</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>12025148.54</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE GAVILANES</calle>
+                        <numero_exterior>42</numero_exterior>
+                        <numero_interior>NAVE 6</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454024</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200702</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>603207.96</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>300</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>AMPHENOL OPTIMIZE MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19840709</fecha_constitucion>
+                        <rfc>AOM840709HE7</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3350005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>THAYNE WORKS</nombre>
+                            <apellido_paterno>HARDY</apellido_paterno>
+                            <apellido_materno>XXX</apellido_materno>
+                            <fecha_nacimiento>19650822</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRETERA INTERNACIONAL KM 6.5</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200702</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200930</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>12427373.78</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE GAVILANES</calle>
+                        <numero_exterior>48</numero_exterior>
+                        <numero_interior>NAVE 8</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454025</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200702</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>574779.26</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>301</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>POWER SISTEMS INCORPORATED DE MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19930817</fecha_constitucion>
+                        <rfc>PSI930817FT1</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3350005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>DANIEL  JOHN</nombre>
+                            <apellido_paterno>O CONNELL</apellido_paterno>
+                            <apellido_materno>JR</apellido_materno>
+                            <fecha_nacimiento>19620319</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRETERA INTERNACIONAL KM 5.5</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200710</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>72185818.66</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE GAVILANES Y  CARRETERA INTERNACIONAL KM 5.5</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <numero_interior>NAVE 1</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454001</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200710</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>300163.29</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>302</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>MANUFACTURAS KE, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>20040510</fecha_constitucion>
+                        <rfc>MKE040510HW9</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3260005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>FRANCISCO JAVIER</nombre>
+                            <apellido_paterno>RIVERA</apellido_paterno>
+                            <apellido_materno>GARCIA</apellido_materno>
+                            <fecha_nacimiento>19571015</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>PEREZ ROCHA</calle>
+                        <numero_exterior>82</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200707</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>17614916.71</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>PEREZ ROCHA</calle>
+                        <numero_exterior>82</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454022</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200707</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>2</moneda>
+                        <monto_operacion>12373.25</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>303</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>MTD CONSUMER PRODUCTS MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19980226</fecha_constitucion>
+                        <rfc>MCP980226IF7</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3330005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>FAVIAN</nombre>
+                            <apellido_paterno>BUSTAMANTE</apellido_paterno>
+                            <apellido_materno>CASTILLO</apellido_materno>
+                            <fecha_nacimiento>19801122</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRILES Y CARRETERA INTERNACIONAL, PRIVADA MURRIETA</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200703</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>18396265.89</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE PEREZ ROCHA</calle>
+                        <numero_exterior>79</numero_exterior>
+                        <numero_interior>NAVE 11</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454023</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200703</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>346961.69</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>304</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>MTD CONSUMER PRODUCTS MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19980226</fecha_constitucion>
+                        <rfc>MCP980226IF7</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3330005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>FAVIAN</nombre>
+                            <apellido_paterno>BUSTAMANTE</apellido_paterno>
+                            <apellido_materno>CASTILLO</apellido_materno>
+                            <fecha_nacimiento>19801122</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRILES Y CARRETERA INTERNACIONAL, PRIVADA MURRIETA</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200703</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>102100551.84</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>LOS MURRIETA</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <numero_interior>NAVE 12</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7139001</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200703</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1819237.43</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>305</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>MTD CONSUMER PRODUCTS MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19980226</fecha_constitucion>
+                        <rfc>MCP980226IF7</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3330005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>FAVIAN</nombre>
+                            <apellido_paterno>BUSTAMANTE</apellido_paterno>
+                            <apellido_materno>CASTILLO</apellido_materno>
+                            <fecha_nacimiento>19801122</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRILES Y CARRETERA INTERNACIONAL, PRIVADA MURRIETA</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200703</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>28787227.05</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE DE LOS GAVILANES</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <numero_interior>NAVE 15</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454003</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200703</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>550876.79</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>306</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>MTD CONSUMER PRODUCTS MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19980226</fecha_constitucion>
+                        <rfc>MCP980226IF7</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3330005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>FAVIAN</nombre>
+                            <apellido_paterno>BUSTAMANTE</apellido_paterno>
+                            <apellido_materno>CASTILLO</apellido_materno>
+                            <fecha_nacimiento>19801122</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRILES Y CARRETERA INTERNACIONAL, PRIVADA MURRIETA</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200703</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>28787227.05</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE DE LOS GAVILANES</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <numero_interior>NAVE 16</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7654001</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200703</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>283957.11</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>307</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_moral>
+                        <denominacion_razon>SONITRONIES S. DE R.L.  DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19740515</fecha_constitucion>
+                        <rfc>SON7405152Y2</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3340005</giro_mercantil>
+                        <representante_apoderado>
+                            <nombre>DAVID OCTAVIO</nombre>
+                            <apellido_paterno>RUELAS</apellido_paterno>
+                            <apellido_materno>PEREZ</apellido_materno>
+                            <fecha_nacimiento>19561229</fecha_nacimiento>
+                        </representante_apoderado>
+                    </persona_moral>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE GAVILANES</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200709</fecha_operacion>
+                    <tipo_operacion>1501</tipo_operacion>
+                    <caracteristicas>
+                        <fecha_inicio>20200701</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>22884669.87</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE GAVILANES</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7655003</folio_real>
+                    </caracteristicas>
+                    <datos_liquidacion>
+                        <fecha_pago>20200709</fecha_pago>
                         <forma_pago>1</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>2</moneda>
-                        <monto_operacion>11597.88</monto_operacion>
+                        <monto_operacion>16370.33</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
         </aviso>
         <aviso>
-            <referencia_aviso>14</referencia_aviso>
+            <referencia_aviso>308</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -155,588 +696,120 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_moral>
-                        <denominacion_razon>GARCIA, NOYOLA, RAMOS Y ASOCIADOS, S.C.</denominacion_razon>
-                        <fecha_constitucion>19980922</fecha_constitucion>
-                        <rfc>GNR9809222V3</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>5750016</giro_mercantil>
+                        <denominacion_razon>POWER SISTEMS INCORPORATED DE MEXICO, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19930817</fecha_constitucion>
+                        <rfc>PSI930817FT1</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3350005</giro_mercantil>
                         <representante_apoderado>
-                            <nombre>ELIZABETH MAGDALENA</nombre>
-                            <apellido_paterno>GARCIA</apellido_paterno>
-                            <apellido_materno>DINGLER</apellido_materno>
-                            <fecha_nacimiento>19650412</fecha_nacimiento>
-                            <rfc>GADE650412</rfc>
-                            <curp>GADE650412MDFRNL01</curp>
+                            <nombre>DANIEL  JOHN</nombre>
+                            <apellido_paterno>O CONNELL</apellido_paterno>
+                            <apellido_materno>XXX</apellido_materno>
+                            <fecha_nacimiento>19620319</fecha_nacimiento>
                         </representante_apoderado>
                     </persona_moral>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>P 5 (D)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CARRETERA INTERNACIONAL KM 5.5</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <codigo_postal>84094</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>12530730</numero_telefono>
-                    <correo_electronico>MAGDALENA.GARCIA@GNR.COM.MX</correo_electronico>
-                </telefono>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
+                    <fecha_operacion>20200605</fecha_operacion>
                     <tipo_operacion>1501</tipo_operacion>
                     <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5 (D)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
+                        <fecha_inicio>20200601</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>72185818.66</valor_referencia>
+                        <colonia>PARQUE INDUSTRIAL DE NOGALES</colonia>
+                        <calle>CALLE GAVILANES Y  CARRETERA INTERNACIONAL KM 5.5</calle>
+                        <numero_exterior>SN</numero_exterior>
+                        <numero_interior>NAVE 2B</numero_interior>
+                        <codigo_postal>84094</codigo_postal>
+                        <folio_real>7454001</folio_real>
                     </caracteristicas>
                     <datos_liquidacion>
-                        <fecha_pago>20200507</fecha_pago>
+                        <fecha_pago>20200605</fecha_pago>
                         <forma_pago>1</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>84545.74</monto_operacion>
+                        <monto_operacion>260591.44</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200710</fecha_pago>
+                        <forma_pago>1</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>275285.39</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
         </aviso>
         <aviso>
-            <referencia_aviso>15</referencia_aviso>
+            <referencia_aviso>309</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
-                <tipo_alerta>1305</tipo_alerta>
+                <tipo_alerta>100</tipo_alerta>
             </alerta>
             <persona_aviso>
                 <tipo_persona>
                     <persona_moral>
-                        <denominacion_razon>NBA MEXICO BASKETBALL, S.A. DE C.V.</denominacion_razon>
-                        <fecha_constitucion>20130416</fecha_constitucion>
-                        <rfc>NMB130416C44</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>5710016</giro_mercantil>
+                        <denominacion_razon>BAJA TACKLE, S.A. DE C.V.</denominacion_razon>
+                        <fecha_constitucion>19931126</fecha_constitucion>
+                        <rfc>BTA931126861</rfc>
+                        <pais_nacionalidad>MXN</pais_nacionalidad>
+                        <giro_mercantil>3420005</giro_mercantil>
                         <representante_apoderado>
-                            <nombre>RAUL</nombre>
-                            <apellido_paterno>ZARRAGA</apellido_paterno>
+                            <nombre>RICARDO</nombre>
+                            <apellido_paterno>BALDERRAMA</apellido_paterno>
                             <apellido_materno>GONZALEZ</apellido_materno>
-                            <fecha_nacimiento>19700825</fecha_nacimiento>
-                            <rfc>ZAGR7008256M7</rfc>
-                            <curp>ZAGR700825HDFRNL03</curp>
+                            <fecha_nacimiento>19731011</fecha_nacimiento>
                         </representante_apoderado>
                     </persona_moral>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>P 6 (B)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
+                        <colonia>COSTA BELLA</colonia>
+                        <calle>CALLE HUERTA</calle>
+                        <numero_exterior>144</numero_exterior>
+                        <codigo_postal>22898</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>88511159</numero_telefono>
-                    <correo_electronico>ZARRAGA@NBA.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <dueno_beneficiario>
-                <tipo_persona>
-                    <fideicomiso>
-                        <denominacion_razon>PATITO</denominacion_razon>
-                        <rfc>XXX010101XXX</rfc>
-                        <identificador_fideicomiso>F/2003</identificador_fideicomiso>
-                    </fideicomiso>
-                </tipo_persona>
-            </dueno_beneficiario>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 6 (B)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200513</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>248049.77</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>16</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>MCKITRICK, S.A. DE C.V.</denominacion_razon>
-                        <fecha_constitucion>20160301</fecha_constitucion>
-                        <rfc>MCK160301L45</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>5650015</giro_mercantil>
-                        <representante_apoderado>
-                            <nombre>ROBERTO JORGE</nombre>
-                            <apellido_paterno>ANDRADE</apellido_paterno>
-                            <apellido_materno>MARTINEZ</apellido_materno>
-                            <fecha_nacimiento>19730315</fecha_nacimiento>
-                            <rfc>AAMR730315</rfc>
-                            <curp>AAMR730315HDFNRB06</curp>
-                        </representante_apoderado>
-                    </persona_moral>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>CRUZ MANCA</colonia>
-                        <calle>AV. SANTA FE</calle>
-                        <numero_exterior>505</numero_exterior>
-                        <numero_interior>202</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>3683 95 30</numero_telefono>
-                    <correo_electronico>ROBERTO@MCKITRICK.COM.MX</correo_electronico>
-                </telefono>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
+                    <fecha_operacion>20200609</fecha_operacion>
                     <tipo_operacion>1501</tipo_operacion>
                     <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PLANTA BAJA (5)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
+                        <fecha_inicio>20200601</fecha_inicio>
+                        <fecha_termino>20200731</fecha_termino>
+                        <tipo_inmueble>11</tipo_inmueble>
+                        <valor_referencia>8596658.85</valor_referencia>
+                        <colonia>COSTA BELLA</colonia>
+                        <calle>CALLE HUERTA</calle>
+                        <numero_exterior>144</numero_exterior>
+                        <codigo_postal>22898</codigo_postal>
+                        <folio_real>MQ073564</folio_real>
                     </caracteristicas>
                     <datos_liquidacion>
-                        <fecha_pago>20200504</fecha_pago>
+                        <fecha_pago>20200609</fecha_pago>
                         <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>133367.52</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>17</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>FIELDCORE SERVICE SOLUTIONS INTERNATIONAL LLC</denominacion_razon>
-                        <fecha_constitucion>20170830</fecha_constitucion>
-                        <rfc>GSI020709DA6</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>5750016</giro_mercantil>
-                        <representante_apoderado>
-                            <nombre>LUZ ALMA</nombre>
-                            <apellido_paterno>SOLAEGUI</apellido_paterno>
-                            <apellido_materno>HERNANDEZ</apellido_materno>
-                            <fecha_nacimiento>19631209</fecha_nacimiento>
-                            <rfc>SOHL631209</rfc>
-                            <curp>SOHL631209MCLLRZ07</curp>
-                        </representante_apoderado>
-                    </persona_moral>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>JAIME DOVALI</calle>
-                        <numero_exterior>70</numero_exterior>
-                        <codigo_postal>01210</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>44559486</numero_telefono>
-                    <correo_electronico>NAIARA.BERASTEGUI@GE.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 3 (A)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200511</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
+                        <instrumento_monetario>5</instrumento_monetario>
                         <moneda>2</moneda>
-                        <monto_operacion>9590.19</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>18</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>9999</tipo_alerta>
-                <descripcion_alerta>EL CLIENTE NO QUIERE RECIBIR FACTURAS Y EVITA PROPORCIONAR SUS DATOS</descripcion_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>HOGARES UNION, S.A. DE C.V.</denominacion_razon>
-                        <fecha_constitucion>20010316</fecha_constitucion>
-                        <rfc>HUN0102125N3</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>5610016</giro_mercantil>
-                        <representante_apoderado>
-                            <nombre>ISAAC</nombre>
-                            <apellido_paterno>METTA</apellido_paterno>
-                            <apellido_materno>COHEN</apellido_materno>
-                            <fecha_nacimiento>19690618</fecha_nacimiento>
-                            <rfc>MECI6906186E1</rfc>
-                            <curp>MECI690618HDFTHS03</curp>
-                        </representante_apoderado>
-                    </persona_moral>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PH</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>91770100</numero_telefono>
-                    <correo_electronico>IGOMEZ@HOGARESUNION.MX</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <dueno_beneficiario>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>TORIBIO</nombre>
-                        <apellido_paterno>GOMEZ</apellido_paterno>
-                        <apellido_materno>PALACIOS</apellido_materno>
-                        <fecha_nacimiento>19800325</fecha_nacimiento>
-                        <rfc>XXX010101XXX</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                    </persona_fisica>
-                </tipo_persona>
-            </dueno_beneficiario>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 10, 11, PH, PB Y SOTANO 1</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200522</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1166593.13</monto_operacion>
+                        <monto_operacion>9049.84</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200522</fecha_pago>
+                        <fecha_pago>20200704</fecha_pago>
                         <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1000000.00</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>19</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>KAE PROYECCION EMPRESARIAL, S.C.</denominacion_razon>
-                        <fecha_constitucion>20191220</fecha_constitucion>
-                        <rfc>KPE191220Q63</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>5710016</giro_mercantil>
-                        <representante_apoderado>
-                            <nombre>ENRIQUE</nombre>
-                            <apellido_paterno>SALGADO</apellido_paterno>
-                            <apellido_materno>RETANA</apellido_materno>
-                            <fecha_nacimiento>19610303</fecha_nacimiento>
-                            <rfc>SARE610303GB4</rfc>
-                            <curp>SARE610303HMCLTN07</curp>
-                        </representante_apoderado>
-                    </persona_moral>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>87946771</numero_telefono>
-                    <correo_electronico>ACOTTLEC@GMAIL.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5 (C)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200511</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>115291.05</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>20</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>3005</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>RTOBERTO</nombre>
-                        <apellido_paterno>LOPEZ</apellido_paterno>
-                        <apellido_materno>LOPEZ</apellido_materno>
-                        <fecha_nacimiento>19800325</fecha_nacimiento>
-                        <rfc>LOLR800325FTY</rfc>
-                        <curp>LOLR800325HDFRFV25</curp>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>158978</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>SANTA FE</colonia>
-                        <calle>PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>87946771</numero_telefono>
-                    <correo_electronico>ACOTTLEC@GMAIL.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5 (C)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200511</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>115291.05</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>20</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <fideicomiso>
-                        <denominacion_razon>RETFCV</denominacion_razon>
-                        <rfc>XXX010101XXX</rfc>
-                        <identificador_fideicomiso>F/2003</identificador_fideicomiso>
-                        <apoderado_delegado>
-                            <nombre>ENRIQUE</nombre>
-                            <apellido_paterno>SALGADO</apellido_paterno>
-                            <apellido_materno>RETANA</apellido_materno>
-                            <fecha_nacimiento>19610303</fecha_nacimiento>
-                            <rfc>SARE610303GB4</rfc>
-                            <curp>SARE610303HMCLTN07</curp>
-                        </apoderado_delegado>
-                    </fideicomiso>
-                </tipo_persona>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>87946771</numero_telefono>
-                    <correo_electronico>ACOTTLEC@GMAIL.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5 (C)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200511</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>115291.05</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>20</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>3005</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>RTOBERTO</nombre>
-                        <apellido_paterno>LOPEZ</apellido_paterno>
-                        <apellido_materno>LOPEZ</apellido_materno>
-                        <fecha_nacimiento>19800325</fecha_nacimiento>
-                        <rfc>LOLR800325FTY</rfc>
-                        <curp>LOLR800325HDFRFV25</curp>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>158978</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <extranjero>
-                        <pais>KO</pais>
-                        <estado_provincia>KOREA</estado_provincia>
-                        <ciudad_poblacion>KOREA</ciudad_poblacion>
-                        <colonia>HU</colonia>
-                        <calle>CHU</calle>
-                        <numero_exterior>259</numero_exterior>
-                        <numero_interior>24998P</numero_interior>
-                        <codigo_postal>51426</codigo_postal>
-                    </extranjero>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>KO</clave_pais>
-                    <numero_telefono>87946771</numero_telefono>
-                    <correo_electronico>ACOTTLEC@GMAIL.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200501</fecha_operacion>
-                    <tipo_operacion>1501</tipo_operacion>
-                    <caracteristicas>
-                        <fecha_inicio>20200501</fecha_inicio>
-                        <fecha_termino>20200531</fecha_termino>
-                        <tipo_inmueble>5</tipo_inmueble>
-                        <valor_referencia>6595736.00</valor_referencia>
-                        <colonia>DESARROLLO SANTA FE</colonia>
-                        <calle>AV. PROLONGACION PASEO DE LA REFORMA</calle>
-                        <numero_exterior>1236</numero_exterior>
-                        <numero_interior>PISO 5 (C)</numero_interior>
-                        <codigo_postal>05348</codigo_postal>
-                        <folio_real>1102263</folio_real>
-                    </caracteristicas>
-                    <datos_liquidacion>
-                        <fecha_pago>20200511</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>115291.05</monto_operacion>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>2</moneda>
+                        <monto_operacion>9049.84</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
