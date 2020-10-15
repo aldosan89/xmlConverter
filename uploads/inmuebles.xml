@@ -1,125 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archivo xsi:schemaLocation="http://www.uif.shcp.gob.mx/recepcion/inm inm.xsd" xmlns="http://www.uif.shcp.gob.mx/recepcion/inm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <informe>
-        <mes_reportado>202008</mes_reportado>
+        <mes_reportado>202009</mes_reportado>
         <sujeto_obligado>
-            <clave_sujeto_obligado>IKA890123TJ3</clave_sujeto_obligado>
+            <clave_sujeto_obligado>PFM9303109W9</clave_sujeto_obligado>
             <clave_actividad>INM</clave_actividad>
         </sujeto_obligado>
         <aviso>
-            <referencia_aviso>1</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>AANANANAOR</denominacion_razon>
-                        <fecha_constitucion>19800820</fecha_constitucion>
-                        <rfc>XXX010101XXX</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <giro_mercantil>1000000</giro_mercantil>
-                        <representante_apoderado>
-                            <nombre>XXX</nombre>
-                            <apellido_paterno>XXXX</apellido_paterno>
-                            <apellido_materno>XXXXX</apellido_materno>
-                            <rfc>XXXX010101</rfc>
-                        </representante_apoderado>
-                    </persona_moral>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>DOCTORES</colonia>
-                        <calle>DOCTOR ARCE</calle>
-                        <numero_exterior>91</numero_exterior>
-                        <numero_interior>101</numero_interior>
-                        <codigo_postal>06720</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-                <telefono>
-                    <clave_pais>MX</clave_pais>
-                    <numero_telefono>5555555555</numero_telefono>
-                    <correo_electronico>1548@GMAIL.COM</correo_electronico>
-                </telefono>
-            </persona_aviso>
-            <dueno_beneficiario>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>XXX</nombre>
-                        <apellido_paterno>XXX</apellido_paterno>
-                        <apellido_materno>XXX</apellido_materno>
-                        <fecha_nacimiento>19801002</fecha_nacimiento>
-                        <rfc>XXXX010101XXX</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                    </persona_fisica>
-                </tipo_persona>
-            </dueno_beneficiario>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200814</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>3</figura_so>
-                    <datos_contraparte>
-                        <tipo_persona>
-                            <persona_fisica>
-                                <nombre>XXX</nombre>
-                                <apellido_paterno>XXX</apellido_paterno>
-                                <apellido_materno>XXXX</apellido_materno>
-                                <fecha_nacimiento>19800201</fecha_nacimiento>
-                                <rfc>XXXX010101XXX</rfc>
-                                <pais_nacionalidad>MX</pais_nacionalidad>
-                            </persona_fisica>
-                        </tipo_persona>
-                    </datos_contraparte>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1939000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>35</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>75.00</dimension_terreno>
-                        <dimension_construido>111.38</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>32808</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200813</fecha_instrumento_publico>
-                            <notario_instrumento_publico>9</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1939000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200725</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>2</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>17330.00</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1231782.56</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>489701.11</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>2</referencia_aviso>
+            <referencia_aviso>1124</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -127,270 +15,98 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_fisica>
-                        <nombre>JORGE OCTAVIO</nombre>
-                        <apellido_paterno>DEL VALLE</apellido_paterno>
+                        <nombre>ISAAC</nombre>
+                        <apellido_paterno>ARIAS</apellido_paterno>
                         <apellido_materno>GONZALEZ</apellido_materno>
-                        <rfc>VAGJ881017515</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <extranjero>
-                        <pais>US</pais>
-                        <estado_provincia>HERCULES</estado_provincia>
-                        <ciudad_poblacion>FRAMBOYAN</ciudad_poblacion>
-                        <colonia>TEN</colonia>
-                        <calle>SNMSOE</calle>
-                        <numero_exterior>1256m</numero_exterior>
-                        <numero_interior>p59</numero_interior>
-                        <codigo_postal>76069</codigo_postal>
-                    </extranjero>
-                </tipo_domicilio>
-            </persona_aviso>
-            <dueno_beneficiario>
-                <tipo_persona>
-                    <persona_moral>
-                        <denominacion_razon>CONTA.CV</denominacion_razon>
-                        <fecha_constitucion>19000227</fecha_constitucion>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                    </persona_moral>
-                </tipo_persona>
-            </dueno_beneficiario>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200812</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>3</figura_so>
-                    <datos_contraparte>
-                        <tipo_persona>
-                            <persona_moral>
-                                <denominacion_razon>CCCC.CV</denominacion_razon>
-                                <fecha_constitucion>19500825</fecha_constitucion>
-                                <pais_nacionalidad>MX</pais_nacionalidad>
-                            </persona_moral>
-                        </tipo_persona>
-                    </datos_contraparte>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>2202000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>53</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>112.00</dimension_terreno>
-                        <dimension_construido>115.79</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>74661</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200811</fecha_instrumento_publico>
-                            <notario_instrumento_publico>31</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>2202000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200604</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>18160.00</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200812</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1524270.07</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200812</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>280307.43</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>3</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>LUIS ALBERTO</nombre>
-                        <apellido_paterno>CHAVEZ</apellido_paterno>
-                        <apellido_materno>JURADO</apellido_materno>
-                        <rfc>CAJL9006156P6</rfc>
+                        <rfc>AIGI910612BZ1</rfc>
                         <pais_nacionalidad>MX</pais_nacionalidad>
                         <actividad_economica>1000000</actividad_economica>
                     </persona_fisica>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>FRACCIONAMIENTO  COLINAS DEL SOL</colonia>
-                        <calle>CIRCUITO DEL SOL</calle>
-                        <numero_exterior>0</numero_exterior>
-                        <numero_interior>32</numero_interior>
-                        <codigo_postal>76903</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <dueno_beneficiario>
-                <tipo_persona>
-                    <fideicomiso>
-                        <denominacion_razon>ESTORBO.CM</denominacion_razon>
-                        <identificador_fideicomiso>1568/1547</identificador_fideicomiso>
-                    </fideicomiso>
-                </tipo_persona>
-            </dueno_beneficiario>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200823</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>3</figura_so>
-                    <datos_contraparte>
-                        <tipo_persona>
-                            <fideicomiso>
-                                <denominacion_razon>FGDDR</denominacion_razon>
-                                <identificador_fideicomiso>15689/54656</identificador_fideicomiso>
-                            </fideicomiso>
-                        </tipo_persona>
-                    </datos_contraparte>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1968000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>6</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>75.00</dimension_terreno>
-                        <dimension_construido>111.37</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>67647</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200821</fecha_instrumento_publico>
-                            <notario_instrumento_publico>30</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1968000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200723</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>3</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>16500.00</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200823</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1374038.80</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200823</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>259255.07</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>4</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>GLORIA</nombre>
-                        <apellido_paterno>ALVARADO</apellido_paterno>
-                        <apellido_materno>TREJO</apellido_materno>
-                        <rfc>AATG530908B23</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>CENTRO</colonia>
-                        <calle>5 DE MAYO</calle>
-                        <numero_exterior>78</numero_exterior>
-                        <numero_interior>0</numero_interior>
-                        <codigo_postal>76800</codigo_postal>
+                        <colonia>RINCONADA SAN FELIPE I</colonia>
+                        <calle>CERRADA BAMBUES</calle>
+                        <numero_exterior>11</numero_exterior>
+                        <numero_interior>11</numero_interior>
+                        <codigo_postal>55719</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200821</fecha_operacion>
+                    <fecha_operacion>20200925</fecha_operacion>
                     <tipo_operacion>501</tipo_operacion>
                     <figura_cliente>2</figura_cliente>
                     <figura_so>1</figura_so>
                     <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1928000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>700</numero_exterior>
-                        <numero_interior>11</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>75.00</dimension_terreno>
-                        <dimension_construido>111.38</dimension_construido>
-                        <folio_real>3224900004</folio_real>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1700000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>1202</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>70.86</dimension_terreno>
+                        <dimension_construido>70.86</dimension_construido>
+                        <folio_real>263145</folio_real>
                     </caracteristicas_inmueble>
                     <contrato_instrumento_publico>
                         <datos_instrumento_publico>
-                            <numero_instrumento_publico>32827</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200821</fecha_instrumento_publico>
-                            <notario_instrumento_publico>9</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1928000.00</valor_avaluo_catastral>
+                            <numero_instrumento_publico>35757</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200925</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2105000.00</valor_avaluo_catastral>
                         </datos_instrumento_publico>
                     </contrato_instrumento_publico>
                     <datos_liquidacion>
-                        <fecha_pago>20200722</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20200321</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>10000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200331</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>480000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200610</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>1</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>15944.50</monto_operacion>
+                        <monto_operacion>205000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200820</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20200626</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>1</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>205000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200924</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>8701.85</monto_operacion>
+                        <monto_operacion>84315.87</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>4</forma_pago>
+                        <fecha_pago>20201002</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>9</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>1569793.75</monto_operacion>
+                        <monto_operacion>737183.13</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
         </aviso>
         <aviso>
-            <referencia_aviso>5</referencia_aviso>
+            <referencia_aviso>1125</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -398,91 +114,671 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_fisica>
-                        <nombre>OMAR RENE</nombre>
-                        <apellido_paterno>BENAVIDES</apellido_paterno>
-                        <apellido_materno>PRIETO</apellido_materno>
-                        <rfc>BEPO910102B23</rfc>
+                        <nombre>OLANREWAJU MICHAEL</nombre>
+                        <apellido_paterno>GEORGE</apellido_paterno>
+                        <apellido_materno>XXX</apellido_materno>
+                        <rfc>GEOL840626TK1</rfc>
                         <pais_nacionalidad>MX</pais_nacionalidad>
                         <actividad_economica>1000000</actividad_economica>
                     </persona_fisica>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>AVENIDA  RESIDENCIAL DEL PARQUE</colonia>
-                        <calle>RESIDENCIAL DEL PARQUE</calle>
-                        <numero_exterior>1301</numero_exterior>
-                        <numero_interior>0</numero_interior>
-                        <codigo_postal>76240</codigo_postal>
+                        <colonia>SANTA FE CUAJIMALPA</colonia>
+                        <calle>AVENIDA SANTA FE</calle>
+                        <numero_exterior>482</numero_exterior>
+                        <numero_interior>2604</numero_interior>
+                        <codigo_postal>05348</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200827</fecha_operacion>
+                    <fecha_operacion>20200925</fecha_operacion>
                     <tipo_operacion>501</tipo_operacion>
                     <figura_cliente>2</figura_cliente>
                     <figura_so>1</figura_so>
                     <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1953000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>58</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>80.00</dimension_terreno>
-                        <dimension_construido>115.79</dimension_construido>
-                        <folio_real>3224900004</folio_real>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1446699.69</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>404</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>67.70</dimension_terreno>
+                        <dimension_construido>55.51</dimension_construido>
+                        <folio_real>263145</folio_real>
                     </caracteristicas_inmueble>
                     <contrato_instrumento_publico>
                         <datos_instrumento_publico>
-                            <numero_instrumento_publico>32831</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200826</fecha_instrumento_publico>
-                            <notario_instrumento_publico>9</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1953000.00</valor_avaluo_catastral>
+                            <numero_instrumento_publico>28166</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200924</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>1446699.99</valor_avaluo_catastral>
                         </datos_instrumento_publico>
                     </contrato_instrumento_publico>
                     <datos_liquidacion>
-                        <fecha_pago>20200507</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20200715</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>100000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200724</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>10000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200803</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>1</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>50000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200819</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>330000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200924</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>960000.00</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1126</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>FELIPE</nombre>
+                        <apellido_paterno>MARTIN</apellido_paterno>
+                        <apellido_materno>TURRUBIATES</apellido_materno>
+                        <rfc>MATF870912QC2</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>MOCTEZUMA 2A SECCION</colonia>
+                        <calle>AVENIDA DE LA INDUSTRIA</calle>
+                        <numero_exterior>176</numero_exterior>
+                        <numero_interior>505</numero_interior>
+                        <codigo_postal>15530</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200925</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1976000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>808</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>70.45</dimension_terreno>
+                        <dimension_construido>61.76</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>55944</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200924</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2394000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200729</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>2</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>10000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200828</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>4000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200926</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1637477.60</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1127</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>MARTHA FERNANDA</nombre>
+                        <apellido_paterno>SAUCEDO</apellido_paterno>
+                        <apellido_materno>SORIA</apellido_materno>
+                        <rfc>SASM7107036QA</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>LA PRADERA</colonia>
+                        <calle>VALLE DE SOLIS</calle>
+                        <numero_exterior>0</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>55050</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200926</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1467000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>1401</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>60.84</dimension_terreno>
+                        <dimension_construido>60.84</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>35776</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200925</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2110000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200827</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200925</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>605760.93</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200926</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>842248.07</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1128</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>JORGE LUIS</nombre>
+                        <apellido_paterno>LACCER</apellido_paterno>
+                        <apellido_materno>GARCIA</apellido_materno>
+                        <rfc>LAGJ911225DU3</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>INFONAVIT C.T.M. SAN PABLO TULTEPEC</colonia>
+                        <calle>CALLE 12</calle>
+                        <numero_exterior>201</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>54985</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200926</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1740000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>206</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>64.23</dimension_terreno>
+                        <dimension_construido>64.23</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>55952</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200925</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2116000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200914</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20201002</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1436357.25</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1129</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>DAVID</nombre>
+                        <apellido_paterno>FLORES</apellido_paterno>
+                        <apellido_materno>MARTINEZ</apellido_materno>
+                        <rfc>FOMD910618TL5</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>JARDINES DE MORELOS SECCION ELEMENTOS</colonia>
+                        <calle>LAGO GINEBRA</calle>
+                        <numero_exterior>14</numero_exterior>
+                        <numero_interior>38</numero_interior>
+                        <codigo_postal>55070</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200919</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1893000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>307</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>67.70</dimension_terreno>
+                        <dimension_construido>55.51</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>14609</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200918</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>1893000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200821</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>1</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200919</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1003113.26</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200919</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>312826.60</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1130</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>CARLOS ALBERTO</nombre>
+                        <apellido_paterno>URZUA</apellido_paterno>
+                        <apellido_materno>VALDES</apellido_materno>
+                        <rfc>UUVC721218KJ5</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>JUAREZ</colonia>
+                        <calle>MILAN</calle>
+                        <numero_exterior>28</numero_exterior>
+                        <numero_interior>506</numero_interior>
+                        <codigo_postal>06600</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200912</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1937000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>204</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>42.95</dimension_terreno>
+                        <dimension_construido>59.15</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>28135</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200911</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>1937000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200214</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200317</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>5000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200416</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>10000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200514</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>5000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200615</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>5000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200715</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>5000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200814</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>10000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200907</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>20000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200908</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>20000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200909</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>20000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200910</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>20000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200911</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18264.03</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200914</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>100000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200930</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1128235.97</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1131</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>TANYA IDALHI</nombre>
+                        <apellido_paterno>HERNANDEZ</apellido_paterno>
+                        <apellido_materno>FUENTES</apellido_materno>
+                        <rfc>HEFT9506161J8</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>BONITO ECATEPEC</colonia>
+                        <calle>DOLORES HIDALGO</calle>
+                        <numero_exterior>4</numero_exterior>
+                        <numero_interior>20</numero_interior>
+                        <codigo_postal>55090</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>FRANCISCO ARGENIS</nombre>
+                        <apellido_paterno>MONDRAGON</apellido_paterno>
+                        <apellido_materno>VALLEJO</apellido_materno>
+                        <rfc>MOVF870717PJ1</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>BONITO ECATEPEC</colonia>
+                        <calle>DOLORES HIDALGO</calle>
+                        <numero_exterior>4</numero_exterior>
+                        <numero_interior>20</numero_interior>
+                        <codigo_postal>55090</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200917</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1400000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>103</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>67.96</dimension_terreno>
+                        <dimension_construido>55.51</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>35676</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200917</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>1832000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200710</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
                         <moneda>1</moneda>
                         <monto_operacion>3000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200508</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
+                        <fecha_pago>20200710</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>2000.00</monto_operacion>
+                        <monto_operacion>3000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200514</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
+                        <fecha_pago>20200712</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>1</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>12400.00</monto_operacion>
+                        <monto_operacion>4000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200827</fecha_pago>
-                        <forma_pago>4</forma_pago>
+                        <fecha_pago>20200715</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>5000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200917</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>9</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>1522801.24</monto_operacion>
+                        <monto_operacion>249944.98</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200827</fecha_pago>
-                        <forma_pago>4</forma_pago>
+                        <fecha_pago>20200917</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>9</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>186732.98</monto_operacion>
+                        <monto_operacion>1150054.91</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
         </aviso>
         <aviso>
-            <referencia_aviso>6</referencia_aviso>
+            <referencia_aviso>1132</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -490,254 +786,1046 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_fisica>
-                        <nombre>MAURICIO</nombre>
-                        <apellido_paterno>FONSECA</apellido_paterno>
-                        <apellido_materno>HERNANDEZ</apellido_materno>
-                        <rfc>FOHM790209IQ6</rfc>
+                        <nombre>ULISES</nombre>
+                        <apellido_paterno>ROMO</apellido_paterno>
+                        <apellido_materno>MONTIEL</apellido_materno>
+                        <rfc>ROMU840120J47</rfc>
                         <pais_nacionalidad>MX</pais_nacionalidad>
                         <actividad_economica>1000000</actividad_economica>
                     </persona_fisica>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>IGNACIO ZARAGOZA</colonia>
-                        <calle>AVENIDA  4</calle>
-                        <numero_exterior>0</numero_exterior>
-                        <numero_interior>295</numero_interior>
-                        <codigo_postal>15000</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>VANESSA</nombre>
-                        <apellido_paterno>RUIZ DE CHAVEZ</apellido_paterno>
-                        <apellido_materno>GARCIA</apellido_materno>
-                        <rfc>RUGV791108L34</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>IGNACIO ZARAGOZA</colonia>
-                        <calle>AVENIDA  4</calle>
-                        <numero_exterior>0</numero_exterior>
-                        <numero_interior>295</numero_interior>
-                        <codigo_postal>15000</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200828</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>1</figura_so>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1649720.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>38</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>159.54</dimension_terreno>
-                        <dimension_construido>118.76</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>622</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200828</fecha_instrumento_publico>
-                            <notario_instrumento_publico>12</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1932000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200617</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>16497.20</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200702</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>8</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>6653.00</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200828</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1626570.00</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>7</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>PEDRO DANIEL</nombre>
-                        <apellido_paterno>LANDA</apellido_paterno>
-                        <apellido_materno>ALVARADO</apellido_materno>
-                        <rfc>LAAP850318FY0</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>CENTRO</colonia>
-                        <calle>5 DE MAYO</calle>
-                        <numero_exterior>78</numero_exterior>
+                        <colonia>AMPLIACION DEL GAS</colonia>
+                        <calle>RIO CONSULADO</calle>
+                        <numero_exterior>800</numero_exterior>
                         <numero_interior>0</numero_interior>
-                        <codigo_postal>76800</codigo_postal>
+                        <codigo_postal>02970</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200829</fecha_operacion>
+                    <fecha_operacion>20200918</fecha_operacion>
                     <tipo_operacion>501</tipo_operacion>
                     <figura_cliente>2</figura_cliente>
                     <figura_so>1</figura_so>
                     <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1649440.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>33</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>75.00</dimension_terreno>
-                        <dimension_construido>111.37</dimension_construido>
-                        <folio_real>3224900004</folio_real>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1600000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>602</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>55.51</dimension_terreno>
+                        <dimension_construido>55.51</dimension_construido>
+                        <folio_real>263145</folio_real>
                     </caracteristicas_inmueble>
                     <contrato_instrumento_publico>
                         <datos_instrumento_publico>
-                            <numero_instrumento_publico>67793</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200828</fecha_instrumento_publico>
-                            <notario_instrumento_publico>30</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1968000.00</valor_avaluo_catastral>
+                            <numero_instrumento_publico>55913</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200917</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>1948000.00</valor_avaluo_catastral>
                         </datos_instrumento_publico>
                     </contrato_instrumento_publico>
                     <datos_liquidacion>
-                        <fecha_pago>20200720</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>1</instrumento_monetario>
+                        <fecha_pago>20200601</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>16555.60</monto_operacion>
+                        <monto_operacion>10000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200825</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>1</instrumento_monetario>
+                        <fecha_pago>20200918</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1319229.20</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1133</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>ERNESTO ALEJANDRO</nombre>
+                        <apellido_paterno>CASTILLO</apellido_paterno>
+                        <apellido_materno>VILLAVICENCIO</apellido_materno>
+                        <rfc>CAVE900429A91</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>SAN LUIS TLAXIALTEMALCO</colonia>
+                        <calle>FLORICULTOR</calle>
+                        <numero_exterior>115</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>16610</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>PAOLA MONSERRAT</nombre>
+                        <apellido_paterno>EVANGELISTA</apellido_paterno>
+                        <apellido_materno>MUÑOZ</apellido_materno>
+                        <rfc>EAMP900911U12</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>SAN LUIS TLAXIALTEMALCO</colonia>
+                        <calle>FLORICULTOR</calle>
+                        <numero_exterior>115</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>16610</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200905</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1977000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>503</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>49.27</dimension_terreno>
+                        <dimension_construido>64.23</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>28118</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200904</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2172000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200813</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>2</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200905</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1537499.85</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200905</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>62000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200905</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>2</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>13000.15</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1134</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>CESAR ROBERTO</nombre>
+                        <apellido_paterno>BERMEJO</apellido_paterno>
+                        <apellido_materno>PEREZ</apellido_materno>
+                        <rfc>BEPC920922137</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>PENSIL NORTE</colonia>
+                        <calle>LAGO NESS</calle>
+                        <numero_exterior>177</numero_exterior>
+                        <numero_interior>3</numero_interior>
+                        <codigo_postal>11430</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200905</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>2083000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>1102</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>51.79</dimension_terreno>
+                        <dimension_construido>70.86</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>28119</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200904</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2288000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200824</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20201002</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1672499.95</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1135</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>ERICK ADOLFO</nombre>
+                        <apellido_paterno>TORRES</apellido_paterno>
+                        <apellido_materno>CAMACHO</apellido_materno>
+                        <rfc>TOCE940131736</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>ESTADO DE MEXICO</colonia>
+                        <calle>CALLE 29</calle>
+                        <numero_exterior>42</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>57210</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200904</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1858000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>102</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>67.96</dimension_terreno>
+                        <dimension_construido>55.51</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>9306</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200904</fecha_instrumento_publico>
+                            <notario_instrumento_publico>138</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2041000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200811</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>10000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200904</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1083573.44</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200904</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>193099.46</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1136</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>DIANA MIRYEL</nombre>
+                        <apellido_paterno>REZA</apellido_paterno>
+                        <apellido_materno>VAZQUEZ</apellido_materno>
+                        <rfc>REVD910802BA9</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>BELEM</colonia>
+                        <calle>RICARDO LOPEZ</calle>
+                        <numero_exterior>13</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>54900</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200919</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>2000000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>202</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>64.23</dimension_terreno>
+                        <dimension_construido>64.23</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>35700</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200918</fecha_instrumento_publico>
+                            <notario_instrumento_publico>99</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2053000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200921</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>161158.77</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20201002</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1000135.75</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20201002</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>250455.25</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200922</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>18000.00</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1137</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>ALBERTO</nombre>
+                        <apellido_paterno>ARANA</apellido_paterno>
+                        <apellido_materno>BASTIDA</apellido_materno>
+                        <rfc>AABA930220HF3</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>VALLE DEL TEPEYAC</colonia>
+                        <calle>EJE CENTRAL</calle>
+                        <numero_exterior>523</numero_exterior>
+                        <numero_interior>11</numero_interior>
+                        <codigo_postal>07740</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>FABIOLA</nombre>
+                        <apellido_paterno>ROJAS</apellido_paterno>
+                        <apellido_materno>RUBIO</apellido_materno>
+                        <rfc>RORF9205094M1</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>VALLE DEL TEPEYAC</colonia>
+                        <calle>EJE CENTRAL</calle>
+                        <numero_exterior>523</numero_exterior>
+                        <numero_interior>11</numero_interior>
+                        <codigo_postal>07740</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200912</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1735000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>606</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>67.70</dimension_terreno>
+                        <dimension_construido>64.23</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>55895</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200911</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2201000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200831</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>21000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200913</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1430885.84</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1138</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>KARINA ISABEL</nombre>
+                        <apellido_paterno>ROSALES</apellido_paterno>
+                        <apellido_materno>SEDANO</apellido_materno>
+                        <rfc>ROSK901111SF5</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>LLANURAS</colonia>
+                        <calle>ANDADOR K</calle>
+                        <numero_exterior>10</numero_exterior>
+                        <numero_interior>256</numero_interior>
+                        <codigo_postal>54924</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200930</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1858000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>106</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>67.96</dimension_terreno>
+                        <dimension_construido>55.51</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>2130</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200930</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2041000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200921</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>2</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>21000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200930</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>3</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>28634.19</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200930</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1345864.77</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1139</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>REYNA ELENA</nombre>
+                        <apellido_paterno>ALVAREZ</apellido_paterno>
+                        <apellido_materno>PARDO</apellido_materno>
+                        <rfc>AAPR940822839</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>BOSQUES DE PRIMAVERA</colonia>
+                        <calle>OYAMEL</calle>
+                        <numero_exterior>10</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>52919</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200930</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>1870000.00</valor_pactado>
+                        <colonia>SAN FRANCISCO COACALCO</colonia>
+                        <calle>AVENIDA DE LAS NACIONES</calle>
+                        <numero_exterior>1</numero_exterior>
+                        <numero_interior>604</numero_interior>
+                        <codigo_postal>55712</codigo_postal>
+                        <dimension_terreno>59.15</dimension_terreno>
+                        <dimension_construido>59.15</dimension_construido>
+                        <folio_real>263145</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>14618</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200930</fecha_instrumento_publico>
+                            <notario_instrumento_publico>45</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>2054000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200916</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>21000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200930</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1087689.60</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200930</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>338373.56</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1140</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>CLAUDIA</nombre>
+                        <apellido_paterno>ZAVALA</apellido_paterno>
+                        <apellido_materno>OVALLE</apellido_materno>
+                        <rfc>ZAOC720516IF5</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>JARDINES DE SANTA MONICA</colonia>
+                        <calle>CONVENTO DE CORPUS CHRISTI</calle>
+                        <numero_exterior>69</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>54050</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200910</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>7571200.00</valor_pactado>
+                        <colonia>BOSQUE REAL</colonia>
+                        <calle>AV DEL SILENCIO</calle>
+                        <numero_exterior>204</numero_exterior>
+                        <numero_interior>1901</numero_interior>
+                        <codigo_postal>52774</codigo_postal>
+                        <dimension_terreno>0.00</dimension_terreno>
+                        <dimension_construido>150.62</dimension_construido>
+                        <folio_real>155598</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>17415</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200910</fecha_instrumento_publico>
+                            <notario_instrumento_publico>130</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>7591000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200626</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1274000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200630</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>618800.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200831</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>453800.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200903</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1000000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200909</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>224600.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200910</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>9</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>4000000.00</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1141</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>BRUNO</nombre>
+                        <apellido_paterno>ORDUÑA</apellido_paterno>
+                        <apellido_materno>MONTEKIO</apellido_materno>
+                        <rfc>OUMB920711V72</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>CONDADO DE SAYAVEDRA</colonia>
+                        <calle>CASTILLO DE NOTHINGHAM</calle>
+                        <numero_exterior>67</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>52938</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>DANIEL</nombre>
+                        <apellido_paterno>ORDUÑA</apellido_paterno>
+                        <apellido_materno>MONTEKIO</apellido_materno>
+                        <rfc>OUMD900721IK9</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>CONDADO DE SAYAVEDRA</colonia>
+                        <calle>CASTILLO DE NOTHINGHAM</calle>
+                        <numero_exterior>67</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>52938</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>GABRIEL</nombre>
+                        <apellido_paterno>ORDUÑA</apellido_paterno>
+                        <apellido_materno>MONTEKIO</apellido_materno>
+                        <rfc>OUMG890218T47</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>CONDADO DE SAYAVEDRA</colonia>
+                        <calle>CASTILLO DE NOTHINGHAM</calle>
+                        <numero_exterior>67</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>52938</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200915</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>7398000.00</valor_pactado>
+                        <colonia>BOSQUE REAL</colonia>
+                        <calle>AV DEL SILENCIO</calle>
+                        <numero_exterior>204</numero_exterior>
+                        <numero_interior>402</numero_interior>
+                        <codigo_postal>52774</codigo_postal>
+                        <dimension_terreno>0.00</dimension_terreno>
+                        <dimension_construido>166.47</dimension_construido>
+                        <folio_real>155611</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>17424</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200915</fecha_instrumento_publico>
+                            <notario_instrumento_publico>130</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>7398000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200827</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>100000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200831</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>3024000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200914</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>4274000.00</monto_operacion>
+                    </datos_liquidacion>
+                </datos_operacion>
+            </detalle_operaciones>
+        </aviso>
+        <aviso>
+            <referencia_aviso>1142</referencia_aviso>
+            <prioridad>1</prioridad>
+            <alerta>
+                <tipo_alerta>100</tipo_alerta>
+            </alerta>
+            <persona_aviso>
+                <tipo_persona>
+                    <persona_fisica>
+                        <nombre>DIANA CRISTELA</nombre>
+                        <apellido_paterno>LEON</apellido_paterno>
+                        <apellido_materno>AVILA</apellido_materno>
+                        <rfc>LEAD841211EW3</rfc>
+                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <actividad_economica>1000000</actividad_economica>
+                    </persona_fisica>
+                </tipo_persona>
+                <tipo_domicilio>
+                    <nacional>
+                        <colonia>LOMAS VERDES 1A SECCION</colonia>
+                        <calle>AVENIDA CRISTOBAL COLON</calle>
+                        <numero_exterior>30</numero_exterior>
+                        <numero_interior>0</numero_interior>
+                        <codigo_postal>53120</codigo_postal>
+                    </nacional>
+                </tipo_domicilio>
+            </persona_aviso>
+            <detalle_operaciones>
+                <datos_operacion>
+                    <fecha_operacion>20200923</fecha_operacion>
+                    <tipo_operacion>501</tipo_operacion>
+                    <figura_cliente>2</figura_cliente>
+                    <figura_so>1</figura_so>
+                    <caracteristicas_inmueble>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>8981700.00</valor_pactado>
+                        <colonia>BOSQUE REAL</colonia>
+                        <calle>AV DEL SILENCIO</calle>
+                        <numero_exterior>204</numero_exterior>
+                        <numero_interior>2101</numero_interior>
+                        <codigo_postal>52774</codigo_postal>
+                        <dimension_terreno>0.00</dimension_terreno>
+                        <dimension_construido>201.84</dimension_construido>
+                        <folio_real>155645</folio_real>
+                    </caracteristicas_inmueble>
+                    <contrato_instrumento_publico>
+                        <datos_instrumento_publico>
+                            <numero_instrumento_publico>17438</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200922</fecha_instrumento_publico>
+                            <notario_instrumento_publico>130</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>9890000.00</valor_avaluo_catastral>
+                        </datos_instrumento_publico>
+                    </contrato_instrumento_publico>
+                    <datos_liquidacion>
+                        <fecha_pago>20200721</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>150000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200723</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>152238.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200724</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>152238.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200727</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>151338.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200727</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>151338.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200727</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>151338.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200727</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>151338.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200728</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>150438.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200729</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>10</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>38630.65</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200826</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1103.35</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200829</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
                         <monto_operacion>500000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
                         <fecha_pago>20200829</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1132884.40</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>8</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>ANTONIO</nombre>
-                        <apellido_paterno>FERNANDEZ</apellido_paterno>
-                        <apellido_materno>DE ITURBIDE</apellido_materno>
-                        <rfc>FEIA96051765A</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>MAYORAZGOS DE LOS GIGANTES</colonia>
-                        <calle>PASEO DE LOS HALCONES</calle>
-                        <numero_exterior>0</numero_exterior>
-                        <numero_interior>65</numero_interior>
-                        <codigo_postal>52957</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200830</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>1</figura_so>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>2700000.00</valor_pactado>
-                        <colonia>SUMMIT PARK</colonia>
-                        <calle>AV. RESIDENCIAL DEL PARQUE</calle>
-                        <numero_exterior>1150</numero_exterior>
-                        <numero_interior>B702</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>70.47</dimension_terreno>
-                        <dimension_construido>98.74</dimension_construido>
-                        <folio_real>13341220</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>9364</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200831</fecha_instrumento_publico>
-                            <notario_instrumento_publico>37</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>2761000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200204</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>1</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>36000.00</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200828</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>3791.00</monto_operacion>
+                        <monto_operacion>150000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200830</fecha_pago>
-                        <forma_pago>4</forma_pago>
+                        <fecha_pago>20200831</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>500000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200901</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>481000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200902</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>100700.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20200923</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>9</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>2211559.80</monto_operacion>
+                        <monto_operacion>6000000.00</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
         </aviso>
         <aviso>
-            <referencia_aviso>9</referencia_aviso>
+            <referencia_aviso>1143</referencia_aviso>
             <prioridad>1</prioridad>
             <alerta>
                 <tipo_alerta>100</tipo_alerta>
@@ -745,459 +1833,260 @@
             <persona_aviso>
                 <tipo_persona>
                     <persona_fisica>
-                        <nombre>GUILLERMO</nombre>
-                        <apellido_paterno>HAGG</apellido_paterno>
-                        <apellido_materno>Y SAAB</apellido_materno>
-                        <rfc>HASG470327P26</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
+                        <nombre>LUCILA</nombre>
+                        <apellido_paterno>MORGENSTERN</apellido_paterno>
+                        <apellido_materno>X</apellido_materno>
+                        <rfc>MOLU751115BS5</rfc>
+                        <pais_nacionalidad>AR</pais_nacionalidad>
                         <actividad_economica>1000000</actividad_economica>
                     </persona_fisica>
                 </tipo_persona>
                 <tipo_domicilio>
                     <nacional>
-                        <colonia>AMPLIACION NAPOLES</colonia>
-                        <calle>SAN ANTONIO</calle>
-                        <numero_exterior>189</numero_exterior>
-                        <numero_interior>211</numero_interior>
-                        <codigo_postal>3840</codigo_postal>
+                        <colonia>POLANCO III SECCION</colonia>
+                        <calle>SOCRATES</calle>
+                        <numero_exterior>228</numero_exterior>
+                        <numero_interior>1</numero_interior>
+                        <codigo_postal>11540</codigo_postal>
                     </nacional>
                 </tipo_domicilio>
             </persona_aviso>
             <detalle_operaciones>
                 <datos_operacion>
-                    <fecha_operacion>20200821</fecha_operacion>
+                    <fecha_operacion>20200928</fecha_operacion>
                     <tipo_operacion>501</tipo_operacion>
                     <figura_cliente>2</figura_cliente>
                     <figura_so>1</figura_so>
                     <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1930000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>10</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>159.54</dimension_terreno>
-                        <dimension_construido>111.37</dimension_construido>
-                        <folio_real>3224900004</folio_real>
+                        <tipo_inmueble>2</tipo_inmueble>
+                        <valor_pactado>4805000.00</valor_pactado>
+                        <colonia>BOSQUE REAL</colonia>
+                        <calle>AVENIDA DEL SILENCIO</calle>
+                        <numero_exterior>20</numero_exterior>
+                        <numero_interior>602</numero_interior>
+                        <codigo_postal>52774</codigo_postal>
+                        <dimension_terreno>0.00</dimension_terreno>
+                        <dimension_construido>119.40</dimension_construido>
+                        <folio_real>149167</folio_real>
                     </caracteristicas_inmueble>
                     <contrato_instrumento_publico>
                         <datos_instrumento_publico>
-                            <numero_instrumento_publico>67636</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200821</fecha_instrumento_publico>
-                            <notario_instrumento_publico>30</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1930000.00</valor_avaluo_catastral>
+                            <numero_instrumento_publico>17453</numero_instrumento_publico>
+                            <fecha_instrumento_publico>20200928</fecha_instrumento_publico>
+                            <notario_instrumento_publico>130</notario_instrumento_publico>
+                            <entidad_instrumento_publico>15</entidad_instrumento_publico>
+                            <valor_avaluo_catastral>4805000.00</valor_avaluo_catastral>
                         </datos_instrumento_publico>
                     </contrato_instrumento_publico>
                     <datos_liquidacion>
-                        <fecha_pago>20200806</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>2</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>16497.20</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20160712</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
                         <monto_operacion>100000.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
+                        <fecha_pago>20160727</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>1212662.68</monto_operacion>
+                        <monto_operacion>1341500.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20160829</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>20560.12</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20161003</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>100000.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20161028</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>100000.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200821</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20161201</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>100000.00</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>10</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>ESTEBAN</nombre>
-                        <apellido_paterno>GARCIA</apellido_paterno>
-                        <apellido_materno>JIMENEZ</apellido_materno>
-                        <rfc>GAJE8703247F2</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>JUAN GONZALEZ ROMERO</colonia>
-                        <calle>MARGARITAS</calle>
-                        <numero_exterior>82</numero_exterior>
-                        <numero_interior>110</numero_interior>
-                        <codigo_postal>07410</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200828</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>1</figura_so>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1939000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>34</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>75.00</dimension_terreno>
-                        <dimension_construido>111.38</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>32835</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200828</fecha_instrumento_publico>
-                            <notario_instrumento_publico>9</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1939000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200816</fecha_pago>
-                        <forma_pago>1</forma_pago>
-                        <instrumento_monetario>2</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>16497.20</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200828</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1194966.36</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200828</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>443833.39</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>11</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>AARON ABELARDO</nombre>
-                        <apellido_paterno>GALAZ</apellido_paterno>
-                        <apellido_materno>RAMIREZ</apellido_materno>
-                        <rfc>GARA720808FA8</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>LA ALHAMBRA</colonia>
-                        <calle>AVENIDA DEL PARQUE</calle>
-                        <numero_exterior>1151</numero_exterior>
-                        <numero_interior>131</numero_interior>
-                        <codigo_postal>76074</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>DINA MARISELA</nombre>
-                        <apellido_paterno>LIZARDI</apellido_paterno>
-                        <apellido_materno>MENDOZA</apellido_materno>
-                        <rfc>LIMD7303213B1</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>LA ALHAMBRA</colonia>
-                        <calle>AVENIDA DEL PARQUE</calle>
-                        <numero_exterior>1151</numero_exterior>
-                        <numero_interior>131</numero_interior>
-                        <codigo_postal>76074</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200814</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>1</figura_so>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1968000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>32</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>75.00</dimension_terreno>
-                        <dimension_construido>111.37</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>67563</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200814</fecha_instrumento_publico>
-                            <notario_instrumento_publico>30</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1968000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200701</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20161228</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>16497.20</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200811</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20170207</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>152586.92</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1480635.88</monto_operacion>
-                    </datos_liquidacion>
-                </datos_operacion>
-            </detalle_operaciones>
-        </aviso>
-        <aviso>
-            <referencia_aviso>12</referencia_aviso>
-            <prioridad>1</prioridad>
-            <alerta>
-                <tipo_alerta>100</tipo_alerta>
-            </alerta>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>MICHEL ALEXANDER</nombre>
-                        <apellido_paterno>MARTINEZ</apellido_paterno>
-                        <apellido_materno>JUAREZ</apellido_materno>
-                        <rfc>MAJM820813HR5</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>SAN JUAN DE ARAGON</colonia>
-                        <calle>AVENIDA  581</calle>
-                        <numero_exterior>0</numero_exterior>
-                        <numero_interior>46</numero_interior>
-                        <codigo_postal>07969</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <persona_aviso>
-                <tipo_persona>
-                    <persona_fisica>
-                        <nombre>CYNTHIA</nombre>
-                        <apellido_paterno>ALTAMIRANO</apellido_paterno>
-                        <apellido_materno>CARDENAS</apellido_materno>
-                        <rfc>AACC870331675</rfc>
-                        <pais_nacionalidad>MX</pais_nacionalidad>
-                        <actividad_economica>1000000</actividad_economica>
-                    </persona_fisica>
-                </tipo_persona>
-                <tipo_domicilio>
-                    <nacional>
-                        <colonia>SAN JUAN DE ARAGON</colonia>
-                        <calle>AVENIDA  581</calle>
-                        <numero_exterior>0</numero_exterior>
-                        <numero_interior>46</numero_interior>
-                        <codigo_postal>07969</codigo_postal>
-                    </nacional>
-                </tipo_domicilio>
-            </persona_aviso>
-            <detalle_operaciones>
-                <datos_operacion>
-                    <fecha_operacion>20200814</fecha_operacion>
-                    <tipo_operacion>501</tipo_operacion>
-                    <figura_cliente>2</figura_cliente>
-                    <figura_so>1</figura_so>
-                    <caracteristicas_inmueble>
-                        <tipo_inmueble>1</tipo_inmueble>
-                        <valor_pactado>1978000.00</valor_pactado>
-                        <colonia>ADARA LIFESTYLE</colonia>
-                        <calle>VIA CITE</calle>
-                        <numero_exterior>900</numero_exterior>
-                        <numero_interior>64</numero_interior>
-                        <codigo_postal>76246</codigo_postal>
-                        <dimension_terreno>80.00</dimension_terreno>
-                        <dimension_construido>114.44</dimension_construido>
-                        <folio_real>3224900004</folio_real>
-                    </caracteristicas_inmueble>
-                    <contrato_instrumento_publico>
-                        <datos_instrumento_publico>
-                            <numero_instrumento_publico>67525</numero_instrumento_publico>
-                            <fecha_instrumento_publico>20200813</fecha_instrumento_publico>
-                            <notario_instrumento_publico>30</notario_instrumento_publico>
-                            <entidad_instrumento_publico>22</entidad_instrumento_publico>
-                            <valor_avaluo_catastral>1978000.00</valor_avaluo_catastral>
-                        </datos_instrumento_publico>
-                    </contrato_instrumento_publico>
-                    <datos_liquidacion>
-                        <fecha_pago>20200716</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20170301</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>17180.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1412908.62</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>290302.70</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200716</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20170329</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>17180.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1412908.62</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>290302.70</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200716</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20170502</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>17180.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1412908.62</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>290302.70</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200716</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20170608</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>17180.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>1412908.62</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
-                        <moneda>1</moneda>
-                        <monto_operacion>290302.70</monto_operacion>
-                    </datos_liquidacion>
-                    <datos_liquidacion>
-                        <fecha_pago>20200716</fecha_pago>
-                        <forma_pago>1</forma_pago>
+                        <fecha_pago>20170628</fecha_pago>
+                        <forma_pago>2</forma_pago>
                         <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>17180.00</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
+                        <fecha_pago>20170727</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>1412908.62</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
                     </datos_liquidacion>
                     <datos_liquidacion>
-                        <fecha_pago>20200814</fecha_pago>
-                        <forma_pago>4</forma_pago>
-                        <instrumento_monetario>9</instrumento_monetario>
+                        <fecha_pago>20170907</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
                         <moneda>1</moneda>
-                        <monto_operacion>290302.70</monto_operacion>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20171009</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20171031</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20171116</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>3000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20171130</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180109</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180129</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180306</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180328</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180504</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180529</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>36961.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20180910</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>640000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20181002</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>800000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20181003</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>110538.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20181211</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>5</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1000000.00</monto_operacion>
+                    </datos_liquidacion>
+                    <datos_liquidacion>
+                        <fecha_pago>20190827</fecha_pago>
+                        <forma_pago>2</forma_pago>
+                        <instrumento_monetario>8</instrumento_monetario>
+                        <moneda>1</moneda>
+                        <monto_operacion>1100.00</monto_operacion>
                     </datos_liquidacion>
                 </datos_operacion>
             </detalle_operaciones>
